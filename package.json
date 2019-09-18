@@ -1,6 +1,6 @@
 {
   "name": "@hexonet/semantic-release-github-npm-config",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "semantic-release shareable basic configuration for releasing on GitHub and npm",
   "main": ".releaserc.json",
   "private": false,
