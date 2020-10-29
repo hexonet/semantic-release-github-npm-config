@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/hexonet/semantic-release-github-npm-config/compare/v2.0.1...v2.0.2) (2020-10-29)
+
+
+### Bug Fixes
+
+* **dep-bump:** upgrade eslint-config-standard to 16.0.0 ([bc44ec0](https://github.com/hexonet/semantic-release-github-npm-config/commit/bc44ec02b52d8668bb97957d600552bf3a96ee5b))
+
 ## [2.0.1](https://github.com/hexonet/semantic-release-github-npm-config/compare/v2.0.0...v2.0.1) (2020-10-28)
 
 
