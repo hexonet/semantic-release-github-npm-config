@@ -14,7 +14,8 @@
             {
                 "assets": [
                     "HISTORY.md",
-                    "@(.releaserc|.sharedreleaserc|package).json"
+                    "@(.releaserc|.sharedreleaserc|package).json",
+                    "release.config.js"
                 ]
             }
         ],
