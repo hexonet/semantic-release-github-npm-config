@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/hexonet/semantic-release-github-npm-config/compare/v2.0.2...v2.0.3) (2021-01-19)
+
+
+### Bug Fixes
+
+* **semantic-release:** include asset release.config.js ([59cf732](https://github.com/hexonet/semantic-release-github-npm-config/commit/59cf732a97bcbe9f04bc4fe0fbb0da193ec0193c))
+
 ## [2.0.2](https://github.com/hexonet/semantic-release-github-npm-config/compare/v2.0.1...v2.0.2) (2020-10-29)
 
 
