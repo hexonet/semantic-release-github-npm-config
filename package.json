@@ -26,7 +26,7 @@
   "author": "Kai Schwarz <kschwarz@hexonet.net>",
   "license": "MIT",
   "engines": {
-    "node": ">=10.18.0",
+    "node": ">=12.0.0",
     "npm": ">=6.14.8"
   },
   "bugs": {
